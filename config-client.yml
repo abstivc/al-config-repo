@@ -1,2 +1,5 @@
 info:
   profile: default
+user:
+  name: albert
+  age: 18
